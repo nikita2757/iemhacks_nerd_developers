@@ -8,6 +8,7 @@ We are living in a new progressive era, still the topics such as periods and vag
 
 **2. PROBLEM STATEMENT**
 
+
 Building a website that helps women track their menstrual cycle, pamper booth that offers some unique feature to cater mood swings, Gynaecologist help for medical assistance, Menstrual Blog for creating awareness about menstrual health and hygiene, a women intimate hygiene shop providing quality products and a discussion forum with video calling feature. This website provides all the necessary help and assistance that a woman needs in this phase of their monthly cycle.
 
 ***
