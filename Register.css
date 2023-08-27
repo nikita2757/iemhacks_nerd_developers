@@ -15,15 +15,15 @@ header{
 }
 
 .header-logo{
-    font-size: 10px;
+    font-size: 8px;
     float: left;
-    padding-left: 30px;
+    padding-left: 8px;
     padding-top: 0px;
 
 }
 
 .header-logo > img {
-    width: 70%;
+    width: 20%;
 }
 
 li a{
