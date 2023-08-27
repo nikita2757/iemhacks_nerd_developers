@@ -757,7 +757,15 @@ main {
     background: #f08080;
     font-family: sans-serif;
     padding-bottom: 20px;
+  
+  .center {
+    text-align: center; /* Horizontally center the content */
+    display: flex;
+    justify-content: center; /* Center the flex item within the container */
+    align-items: center; /* Center vertically within the flex item */
+    height: 100vh; /* Optional: This helps center vertically in the viewport */
   }
+}
 
   .volunt {
     /* position: relative; */
@@ -770,6 +778,7 @@ main {
     overflow: hidden;
     border-radius: 5px;
   }
+  
 }
 
 html {
